@@ -40,6 +40,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vidyasagar1793/count.svg?"  />
+</div>
+
+###
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar1793&layout=compact&theme=dark" alt=vidyasagar1793 />
 
