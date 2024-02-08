@@ -1,5 +1,7 @@
 <img src='https://github.com/vidyasagar1793/image-for-profile/blob/main/_Purple%20Futuristic%20Technology%20Linkedin%20Banner.jpg' width="100%" />
-<h1 align="center">Hi 👋, I'm Vidya sagar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"> , I'm Vidya sagar</h1>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyasagar1793&label=Profile%20views&color=0e75b6&style=flat" alt="vidyasagar1793" /> </p>
 
 
