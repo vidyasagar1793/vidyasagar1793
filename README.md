@@ -28,6 +28,15 @@
 <a href="https://kaggle.com/vidyasagar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="vidyasagar17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sece_mad060" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="sece_mad060" height="30" width="40" /></a></p>
 
+<div style="display: flex; justify-content: space-around;">
+  <!-- LeetCode Stats -->
+  <div align="center">
+    <p align="center">
+      <h2>LeetCode Stats</h2>
+    </p>
+    <img src="https://leetcard.jacoblin.cool/vidyasagar1709?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
+  </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
