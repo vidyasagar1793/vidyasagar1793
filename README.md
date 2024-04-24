@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on **Machine learning, Data analyst project**
-- 👯 I’m looking to collaborate on **Image processing, Deep learning, Big data **
+- 👯 I’m looking to collaborate on **Image processing, Deep learning, Big data**
 - 🤝 I’m looking for help with **Data warehouse-Snowflake projects**
 - 🌱 I’m currently learning **MLops, snowflake,Databricks**
 - 💬 Ask me about **Python,R ,C++,SQL,Tableau,Excel,Machine Learning**
